@@ -9,7 +9,7 @@
 ### 🚀 About Me:
 - 🔭 I’m a passionate **Full Stack Web Developer** working with **MERN Stack**
 - 🌱 Currently leveling up my **Data Structures & Algorithms** with C++
-- 👯 Solving challenges on [LeetCode](https://leetcode.com/), [Codeforces](https://codeforces.com/), and [CodeChef](https://www.codechef.com/)
+- 👯 Solving challenges on [LeetCode](https://leetcode.com/u/22bce264/), [Codeforces](https://codeforces.com/profile/nirmalspatel2005), and [CodeChef](https://www.codechef.com/users/nirmalpatel30)
 - 💼 Actively building projects that combine performance with beautiful UI
 - ✍️ I love sharing knowledge through open-source and collaboration
 
