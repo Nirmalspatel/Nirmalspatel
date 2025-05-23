@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/nirmal-patel-8230372b8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="https://www.instagram.com/patel_nirmal_2005/?hl=en">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-     <a href="nirmalspatel3003@gmail.com">
+     <a href="mailto:nirmalspatel3003@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
